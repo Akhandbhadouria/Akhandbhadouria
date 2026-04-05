@@ -1,10 +1,10 @@
-![banner](./banner.png)
+![banner](./Gemini_Generated_Image_b3ils6b3ils6b3il.png)
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Machine+Learning+Engineer+%F0%9F%A4%96;Data+Science+Student+%F0%9F%93%8A;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akhandbhadouria&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Akhandbhadouria&color=000000&style=flat-square&label=Profile+Views)
 
 </div>
 
