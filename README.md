@@ -1,4 +1,7 @@
-![banner](./Gemini_Generated_Image_b3ils6b3ils6b3il.png)
+<p align="center">
+  <img src="./banner.png" alt="Profile Banner" width="100%">
+</p>
+
 
 <div align="center">
 
